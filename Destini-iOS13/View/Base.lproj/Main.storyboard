@@ -90,7 +90,6 @@
                         <outlet property="choice1Button" destination="9QG-pg-Frw" id="U1W-aT-03p"/>
                         <outlet property="choice2Button" destination="fwF-55-PpX" id="xI3-ZP-r5j"/>
                         <outlet property="storyLabel" destination="rAa-Vz-35u" id="STZ-Dp-eTt"/>
-                        <outlet property="storyLable" destination="rAa-Vz-35u" id="qKw-5b-97u"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
